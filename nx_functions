@@ -1,4 +1,4 @@
-# Curred from networkX documentation
+# Curled from networkX documentation
 
 def astar_path(G, source, target, heuristic=None, weight="weight"):
     """Returns a list of nodes in a shortest path between source and target
