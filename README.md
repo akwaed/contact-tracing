@@ -32,6 +32,6 @@ The goal of this project was to demostrate the versility of Computational concep
 ### Notes
 The various file description for the above files.
 - [Network Graph.pdf](Network Graph.pdf): The research paper I submitted for the project written in ACM paper format
-- [functions.py](functions.py): The functions used to print and display various contents of the graph
+- [function.py](function.py): The functions used to print and display various contents of the graph
 - [main.py](main.py): main py function file to run and excute the program
 - [nx_functions](nx_functions): Documentation from the NetworkX libary on the various algorithms used by the program
